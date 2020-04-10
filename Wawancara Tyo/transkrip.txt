@@ -1,0 +1,33 @@
+Transkrip: audio_only_1
+0.43 Siraj : Sebagai pengajar apakah anda pernah menggunakan sistem informasi kelas online sebelumnya ?
+0.52 Tyo : Pernah
+0.57 Siraj : Menurut mu buat apa sistem kelas online itu dibuat ? Tujuannya ?
+1.09 Tyo : Kalau yang saya tau itu seperti ngumpulin tugas, absen, sama upload materi materi
+1.21 Siraj : Menurut mu fitur apa aja yg perlu diterapkan untuk mencapai tujuan tersebut ?
+1.33 Tyo : Pertama itu yang paling penting upload tugas, jadi dari kita pengajar bisa upload soal tugas atau yang akan dikerjakan, mereka nantik mereka kumpulkan tugasnya bisa kita lihat tugasnya gemana trus selain itu upload materi juga penting, mahasiswa juga dimudahnkan lihat materi, jelas, online jadi kita bisa upload materinya
+2.15 Siraj : Oke, ini sebagai pengajar, menurut mu seberapa efektif sih kelas berbasis online ?
+2.25 Tyo : Sangat efektif menurut saya, soalnya proses mengajar itu tidak perlu dikelas saja, bisa online, jadi mahasiswa bisa mengakses materi materi maupun tugas tugas, jadi kita dari pengajar dimudahkan tidak perlu susah susah untuk memberitahu mahasiswa dikelas, jadi lebih efektif
+3.03 Siraj : Kan ini ada seperti kelas offline dan online sekarang ya, trus kalau misalnya menggunakan sistem kelas online ini kira - kira kemudahan apa yang diharapkan dengan sistem kelas online ini ?
+3.17 Tyo : Kemudahan yang diharapkan sama, seperti tadi, kayak penguplodan materi lebih mudah, pemberian tugas lebih mudah, sama pegumpulan tugas buat mereka, penilaian juga penting untuk dimudahkan, jadi tidak usah ribet
+3.50 Siraj : Kan ini online, kita tidak bisa memastikan mahasiswanya, agar mahasiswa tidak bosan di kelas online, kira - kira ada perlu fitur tambahan ? atau fitur apa yang dibutuhkan agar mahasiswa tetap tertarik mengikuti kelas online ?
+4.12 Tyo : Mungkin kan dari segi tampilan dibuat lebih menarik, lalu ada fitur yang memutar video, jadi dari kita dosen penjelasan melalui video mahasiswa lebih tertarik, kalau bukan bacaan saja, jadi lebih enak.
+4.42 Siraj : kalau anda sedang mengatur atau memanage kelas, itu kira - kira pengaturan apa saja yang diperlukan ? untuk mengatur kelas itu ?
+4.55 Tyo : Mungkin untuk pengaturan kelas kita mungkin bisa mengatur materi yang ditunjukkan, jadi sebelum dimulai kita bisa mengatur sebelum kelas dimulai, terus kita juga bisa mengatur pemberian tugas, mungkin bisa terjadwal, jadi hari ini ada tugas ini, lagnsung terbuka tugasnya. Jadi hari sebelumnya sudah menentukan tugasnya.
+5.41 Siraj : Dalam menunjang pelajaran kira - kira model interaksi apa yang diperlukan ? antara anda dan mahasiswa ?
+5.52 Tyo : Model interaksinya bisa lewat forum, atau bisa bertanya langsung juga boleh, jadi ditiap tugas bisa dikasih forum diskusi buat mahasiswa dan pengajar.
+6.15 Siraj : Yang terakhir, ini kelas online kan, berarti ada suatu evaluasi, kira - kira model evaluasi apa yang diharapkan ?
+6.29 Tyo : Model evaluasi ini berarti kayak ujiannya ya ?
+6.30 Siraj : Iya modelnya
+6.35 Tyo : Mungkin bisa mahasiswa mengerjakan soal, jadi kita mengatur soal yang dibutuhkan, sama kalau pilihan ganda, ntar pilihan yang ditampilkan itu antar mahasiswa beda, trus uraian juga bisa.
+
+Transkrip : audio_only_2
+0.06 Novan : Yang pertama ini, sebelumnya pernahkan menggunakan classroom ?
+0.14 Lutfy : Pernah
+0.16 : Menurut anda untuk apa sih sistem tersebut dibuat ?
+0.20 : Untuk menunjang pembelajaran jarak jauh, atau tanpa tatap muka. Dan dapat digunakan mendokumentasikan materi dan mengorganisasikan pengumpulan tugas
+0.40 : Menurut mu apa saja sih fitur fitur yang harus diterapkan dalam sistem , agar tercapai tujuan tersebut ?
+0.47 : Yang pertama fitur membagikan materi, fitur memberikan tugas, tes online juga, dan kalau bisa ada kayak re minder tugas gitu,jadi deadlinennya tanggal berapa gitu
+1.08 : Oke, nah sebagai mahasiswa, menurut mu seberapa efektif sistem kelas berbasis onlne ?
+1.17 : Sangat efektif apalagi kalau ada kejadian seperti sekarang tidak ada pelajaran tatap muka gitu
+1.31 : Kemudahan apa saja yang kamu harapkan dari kelas online ?
+1.38 : Yang tadi juga, sebenarnya ingin ada fitur remainder, 
