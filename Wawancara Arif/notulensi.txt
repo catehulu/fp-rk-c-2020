@@ -1,0 +1,27 @@
+Arif: Pengajar
+Gusrai: Pelajar
+Dicky: Pelajar
+
+Kesimpulan Wawancara Arif oleh Siraj:
+tujuan untuk sewaktu2 jika tidak memungkinkan untuk tatap muka
+fungsi: presensi, teleconference, pengaturan materi, tugas
+lebih efektif tatap muka daripada online
+kemudahan online: tidak repot untuk siap2
+model interaksi: tanya jawab
+model evaluasi: final project
+
+Kesimpulan Wawancara Dicky oleh Novan:
+tujuan: untuk belajar
+fitur: presensi, archive video pembelajaran
+efektif untuk sekarang ini krn pandemik, tidak memungkinkan untuk tatap muka
+agar tidak bosan: diadakan forum
+interaksi antara pelajar dgn pengajar: tanya jawab
+interaksi antar pelajar: forum diskusi
+
+Kesimpulan Wawancara Gusrai oleh Rayhan:
+tujuan: memudahkan pembelajaran, memfasilitasi ketika tidak mungkin tatap muka
+fitur: forum diskusi, tugas kecil2an semacam kuis
+kemudahan online: bisa kuliah dimana2, sambil ngapain aja dan tanpa repot
+fitur agar tertarik: icebreaking agar tidak ngantuk
+interaksi antara pengajar dan pelajar: permainan kecil, tanya jawab, bikin lebih menarik
+interaksi antar pelajar: forum diskusi
